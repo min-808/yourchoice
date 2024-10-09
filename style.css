@@ -1,0 +1,62 @@
+body {
+  background-image: url("bg.png");
+  background-size: 500px;
+  background-position: center;
+}
+
+#topbar {
+  color: white;
+  font-size: 13px;
+  font-family: "Exo 2", sans-serif;
+}
+
+#menu {
+  padding-left: 14rem;
+  padding-right: 16rem;
+}
+
+#myimg {
+  width: 50%;
+}
+
+.grad-background {
+  justify-content: center;
+  align-items: center;
+}
+
+#present {
+  width: 65rem;
+}
+
+#top {
+  width: 63rem;
+}
+
+#c1, #c2, #c3 {
+  width: 20rem;
+}
+
+#news_button {
+  border-radius: 25px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 12px;
+  font-family: "Exo 2", sans-serif;
+  color: white;
+  background-color: #494554;
+  border: none;
+}
+
+#footer {
+  font-family: "Exo 2", sans-serif;
+  background-image: url("black-bg.png");
+  font-size: 12px;
+  padding-left: 20rem;
+  padding-right: 20rem;
+}
+
+.footer_text {
+  font-family: "Exo 2", sans-serif;
+  color: white;
+  font-weight: bold;
+}
